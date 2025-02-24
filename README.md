@@ -13,7 +13,7 @@
 - Train, compare, and explain models interactively.  
 - Track experiments, detect data drift, and deploy models with MLOps integration.  
 
-Ideal for data scientists, ML engineers, and developers looking to accelerate model development while ensuring reproducibility and scalability.
+It is ideal for data scientists, ML engineers, and developers looking to accelerate model development while ensuring reproducibility and scalability.
 
 ---
 
