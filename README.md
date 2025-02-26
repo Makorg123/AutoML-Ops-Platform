@@ -1,4 +1,4 @@
-# AutoML OPS Platform 🚀
+# <html> <head> AutoML OPS Platform </head></html> 🚀
 
 **End-to-End Machine Learning Automation with MLOps Integration**  
 *From raw data to deployed models, powered by Streamlit, Open-Source LLMs, and MLOps best practices.*
